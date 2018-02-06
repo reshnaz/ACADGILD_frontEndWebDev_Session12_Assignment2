@@ -1,4 +1,4 @@
-# S12A3
+# S12A2
 
 Note: All output related files are under "src/app" folder.
 
